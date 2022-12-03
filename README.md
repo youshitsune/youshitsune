@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning JNCIA-SEC(Juniper Security).
+- 🔭 I’m currently working on myself.
 - 👯 I’m looking to collaborate on any project(really, I have so much free time).
 - 📫 How to reach me: The best way is by mail, also you can by Discord JovanovicLuka#1700.
 
