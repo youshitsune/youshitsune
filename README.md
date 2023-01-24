@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on MinimaNote.
+- 🔭 I’m currently working on ~~MinimaNote~~.
 - 👯 I’m looking to collaborate on any project(really, I have so much free time).
 - 📫 How to reach me: The best way is by mail, also you can by Discord JovanovicLuka#1700.
 
