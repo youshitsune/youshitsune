@@ -6,6 +6,6 @@
 
 Here are some of my stats (I know that they aren't great):
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youshitsune&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youshitsune&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youshitsune&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youshitsune&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
