@@ -10,7 +10,7 @@ I'm programmer, Linux and Open-Source software geek.
 <b>Languages:</b><br>
 <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-%232370ED.svg?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-%23F05033.svg?style=for-the-badge&logo=rust&logoColor=white">
 <br>   
 <b>Extras:</b><br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
